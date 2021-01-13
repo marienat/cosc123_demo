@@ -31,6 +31,6 @@ This is a break
 
 Here is a list of lists:
 
--This is a category
-  -Sub list 1
-  -Sub list 2
+- This is a category
+  - Sub list 1
+  - Sub list 2
