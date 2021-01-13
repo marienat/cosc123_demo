@@ -6,6 +6,8 @@ This is just rancom text in the body
 
 If you want to **bold** text, just surround that text with double stars
 
+If you want to *italicise* text, just surround text with single stars
+
 ### This is a level 3 heading
 
 If you want to make a list:
